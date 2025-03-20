@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://go4sharing.github.io/2025/03/20/%E5%85%8D%E8%B4%B9%E6%9C%BA%E5%9C%BA-%E9%9D%99%E5%B8%86-1T-%E6%9C%88-12%E4%B8%AA%E8%8A%82%E7%82%B9/</loc>
+    
+    <lastmod>2025-03-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://go4sharing.github.io/2025/03/20/%E5%85%8D%E8%B4%B9%E6%9C%BA%E5%9C%BA-%E8%89%AF%E5%BF%83%E4%BA%91-100G-7%E5%A4%A9-9%E4%B8%AA%E8%8A%82%E7%82%B9/</loc>
     
     <lastmod>2025-03-20</lastmod>
@@ -313,13 +322,6 @@
   </url>
   
   <url>
-    <loc>https://go4sharing.github.io/tags/%E5%85%8D%E8%B4%B9%E6%9C%BA%E5%9C%BA/</loc>
-    <lastmod>2025-03-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://go4sharing.github.io/tags/%E4%BD%8E%E4%BB%B7%E4%BA%91%E4%B8%BB%E6%9C%BA/</loc>
     <lastmod>2025-03-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -328,6 +330,13 @@
   
   <url>
     <loc>https://go4sharing.github.io/tags/%E4%BA%91%E6%9C%8D%E5%8A%A1/</loc>
+    <lastmod>2025-03-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://go4sharing.github.io/tags/%E5%85%8D%E8%B4%B9%E6%9C%BA%E5%9C%BA/</loc>
     <lastmod>2025-03-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
